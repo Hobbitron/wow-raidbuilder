@@ -1,4 +1,5 @@
-import { Component } from '@angular/core';
+import { Component, inject } from '@angular/core';
+import { ClassesService } from '../services/classes.service'
 
 @Component({
   selector: 'app-add-player',
@@ -8,5 +9,9 @@ import { Component } from '@angular/core';
   styleUrl: './add-player.component.css'
 })
 export class AddPlayerComponent {
-
+  private classesService = inject(ClassesService);
+  constructor() {
+    console.log(this.classesService.getClasses());
+  }
+  
 }

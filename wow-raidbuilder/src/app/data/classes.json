@@ -1,0 +1,80 @@
+[
+    {
+        "name": "Mage",
+        "armor": "cloth",
+        "haste_buff": true,
+        "battle_res": false
+    },
+    {
+        "name": "Warlock",
+        "armor": "cloth",
+        "haste_buff": false,
+        "battle_res": true
+    },
+    {
+        "name": "Priest",
+        "armor": "cloth",
+        "haste_buff": false,
+        "battle_res": false
+    },
+    {
+        "name": "Rogue",
+        "armor": "leather",
+        "haste_buff": false,
+        "battle_res": false
+    },
+    {
+        "name": "Monk",
+        "armor": "leather",
+        "haste_buff": false,
+        "battle_res": false
+    },
+    {
+        "name": "Druid",
+        "armor": "leather",
+        "haste_buff": false,
+        "battle_res": true
+    },
+    {
+        "name": "Demon Hunter",
+        "armor": "leather",
+        "haste_buff": false,
+        "battle_res": false
+    },
+    {
+        "name": "Shaman",
+        "armor": "mail",
+        "haste_buff": true,
+        "battle_res": false
+    },
+    {
+        "name": "Hunter",
+        "armor": "mail",
+        "haste_buff": true,
+        "battle_res": false
+    },
+    {
+        "name": "Evoker",
+        "armor": "mail",
+        "haste_buff": true,
+        "battle_res": false
+    },
+    {
+        "name": "Paladin",
+        "armor": "plate",
+        "haste_buff": false,
+        "battle_res": true
+    },
+    {
+        "name": "Death Knight",
+        "armor": "plate",
+        "haste_buff": false,
+        "battle_res": true
+    },
+    {
+        "name": "Warrior",
+        "armor": "plate",
+        "haste_buff": false,
+        "battle_res": false
+    }
+]

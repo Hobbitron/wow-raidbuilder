@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Demonology",
+        "class": "Warlock",
+        "role": "Damage",
+        "main_stat": "Intellect",
+        "weapons": [ "Staves" , "Wands", "Daggers", "OneHandSwords", "OffHands"]
+    },
+    {
+        "name": "Destruction",
+        "class": "Warlock",
+        "role": "Damage",
+        "main_stat": "Intellect",
+        "weapons": [ "Staves" , "Wands", "Daggers", "OneHandSwords", "OffHands"]
+    },
+    {
+        "name": "Affliction",
+        "class": "Warlock",
+        "role": "Damage",
+        "main_stat": "Intellect",
+        "weapons": [ "Staves" , "Wands", "Daggers", "OneHandSwords", "OffHands"]
+    },
+    {
+        "name": "Fire",
+        "class": "Mage",
+        "role": "Damage",
+        "main_stat": "Intellect",
+        "weapons": [ "Staves" , "Wands", "Daggers", "OneHandSwords", "OffHands"]
+    },
+    {
+        "name": "Frost",
+        "class": "Mage",
+        "role": "Damage",
+        "main_stat": "Intellect",
+        "weapons": [ "Staves" , "Wands", "Daggers", "OneHandSwords", "OffHands"]
+    },
+    {
+        "name": "Arcane",
+        "class": "Mage",
+        "role": "Damage",
+        "main_stat": "Intellect",
+        "weapons": [ "Staves" , "Wands", "Daggers", "OneHandSwords", "OffHands"]
+    },
+    {
+        "name": "Holy",
+        "class": "Priest",
+        "role": "Healer",
+        "main_stat": "Intellect",
+        "weapons": [ "Staves" , "Wands", "Daggers", "OneHandMaces", "OffHands"]
+    },
+    {
+        "name": "Shadow",
+        "class": "Priest",
+        "role": "Damage",
+        "main_stat": "Intellect",
+        "weapons": [ "Staves" , "Wands", "Daggers", "OneHandMaces", "OffHands"]
+    },
+    {
+        "name": "Discipline",
+        "class": "Priest",
+        "role": "Healer",
+        "main_stat": "Intellect",
+        "weapons": [ "Staves" , "Wands", "Daggers", "OneHandMaces", "OffHands"]
+    },
+    {
+        "name": "Outlaw",
+        "class": "Rogue",
+        "role": "Damage",
+        "main_stat": "Agility",
+        "weapons": [ "Daggers", "OneHandSwords", "OneHandMaces", "FistWeapons", "OneHandMaces"]
+    },
+    {
+        "name": "Assassination",
+        "class": "Rogue",
+        "role": "Damage",
+        "main_stat": "Agility",
+        "weapons": [ "Daggers", "OneHandSwords", "OneHandMaces", "FistWeapons", "OneHandMaces"]
+    },
+    {
+        "name": "Subtlety",
+        "class": "Rogue",
+        "role": "Damage",
+        "main_stat": "Agility",
+        "weapons": [ "Daggers", "OneHandSwords", "OneHandMaces", "FistWeapons", "OneHandAxes"]
+    },
+    {
+        "name": "Havoc",
+        "class": "Demon Hunter",
+        "role": "Damage",
+        "main_stat": "Agility",
+        "weapons": [ "OneHandSwords", "OneHandAxes", "Warglaives"]
+    },
+    {
+        "name": "Vengeance",
+        "class": "Demon Hunter",
+        "role": "Tank",
+        "main_stat": "Agility",
+        "weapons": [ "OneHandSwords", "OneHandAxes", "Warglaives"]
+    },
+    {
+        "name": "Brewmaster",
+        "class": "Monk",
+        "role": "Tank",
+        "main_stat": "Agility",
+        "weapons": [ "OneHandSwords", "OneHandMaces", "OneHandSwords", "Staves", "Polearms", "FistWeapons"]
+    },
+    {
+        "name": "Windwalker",
+        "class": "Monk",
+        "role": "Damage",
+        "main_stat": "Agility",
+        "weapons": [ "OneHandSwords", "OneHandMaces", "OneHandSwords", "Staves", "Polearms", "FistWeapons"]
+    },
+    {
+        "name": "Mistweaver",
+        "class": "Monk",
+        "role": "Healer",
+        "main_stat": "Intellect",
+        "weapons": [ "OneHandSwords", "OneHandMaces", "OneHandSwords", "Staves", "Polearms", "FistWeapons", "OffHands"]
+    },
+    {
+        "name": "Guardian",
+        "class": "Druid",
+        "role": "Tank",
+        "main_stat": "Agility",
+        "weapons": [ "Staves", "Polearms" ]
+    },
+    {
+        "name": "Restoration",
+        "class": "Druid",
+        "role": "Healer",
+        "main_stat": "Intellect",
+        "weapons": [ "Staves", "OneHandMaces", "OffHands", "Daggers", "FistWeapons" ]
+    },
+    {
+        "name": "Balance",
+        "class": "Druid",
+        "role": "Damage",
+        "main_stat": "Intellect",
+        "weapons": [ "Staves", "OneHandMaces", "OffHands", "Daggers", "FistWeapons" ]
+    },
+    {
+        "name": "Feral",
+        "class": "Druid",
+        "role": "Damage",
+        "main_stat": "Agility",
+        "weapons": [ "Staves", "Polearms" ]
+    },
+    {
+        "name": "Marksmanship",
+        "class": "Hunter",
+        "role": "Damage",
+        "main_stat": "Agility",
+        "weapons": [ "Bows", "Guns", "Crossbows" ]
+    },
+    {
+        "name": "Beast Mastery",
+        "class": "Hunter",
+        "role": "Damage",
+        "main_stat": "Agility",
+        "weapons": [ "Bows", "Guns", "Crossbows" ]
+    },
+    {
+        "name": "Survival",
+        "class": "Hunter",
+        "role": "Damage",
+        "main_stat": "Agility",
+        "weapons": [ "TwoHandSwords", "Polearms", "Staves" ]
+    },
+    {
+        "name": "Preservation",
+        "class": "Evoker",
+        "role": "Healing",
+        "main_stat": "Intellect",
+        "weapons": [ "Staves", "OneHandAxes", "OneHandSwords", "Daggers", "OffHands" ]
+    },
+    {
+        "name": "Devastation",
+        "class": "Evoker",
+        "role": "Damage",
+        "main_stat": "Intellect",
+        "weapons": [ "Staves", "OneHandAxes", "OneHandSwords", "Daggers", "OffHands" ]
+    },
+    {
+        "name": "Augmentation",
+        "class": "Evoker",
+        "role": "Damage",
+        "main_stat": "Intellect",
+        "weapons": [ "Staves", "OneHandAxes", "OneHandSwords", "Daggers", "OffHands" ]
+    },
+    {
+        "name": "Elemental",
+        "class": "Shaman",
+        "role": "Damage",
+        "main_stat": "Intellect",
+        "weapons": [ "Staves", "OneHandAxes", "OneHandMaces", "Daggers", "FistWeapons", "OffHands", "Shields" ]
+    },
+    {
+        "name": "Restoration",
+        "class": "Shaman",
+        "role": "Healing",
+        "main_stat": "Intellect",
+        "weapons": [ "Staves", "OneHandAxes", "OneHandMaces", "Daggers", "FistWeapons", "OffHands", "Shields" ]
+    },
+    {
+        "name": "Enhancement",
+        "class": "Shaman",
+        "role": "Damage",
+        "main_stat": "Intellect",
+        "weapons": [ "OneHandAxes", "OneHandMaces", "FistWeapons" ]
+    }
+]
